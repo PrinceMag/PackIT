@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xQ3J2zboms5v0/YKE/5oqT8tMKuxX6rOAIgcqhynLA1LN3jXn/Dkb8wpoJI4OBucVeapuvaypoDd7Qion8xCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\PackIT\\PackIT.Application\\PackIT.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
