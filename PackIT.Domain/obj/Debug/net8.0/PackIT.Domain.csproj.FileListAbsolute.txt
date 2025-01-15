@@ -1,0 +1,16 @@
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.AssemblyInfoInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.AssemblyInfo.cs
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.sourcelink.json
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.deps.json
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\bin\Debug\net8.0\PackIT.Domain.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\bin\Debug\net8.0\PackIT.Shared.Abstractions.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\bin\Debug\net8.0\PackIT.Shared.Abstractions.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.csproj.AssemblyReference.cache
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.csproj.CopyComplete
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\refint\PackIT.Domain.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\PackIT.Domain.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\PackIT\PackIT.Domain\obj\Debug\net8.0\ref\PackIT.Domain.dll
